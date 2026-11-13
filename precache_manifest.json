@@ -1,0 +1,275 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "url": "assets/AssetManifest.6c7f3f93.bin",
+      "hash": "6c7f3f93",
+      "size": 1114,
+      "urlHashed": true
+    },
+    {
+      "url": "assets/AssetManifest.bin.b05ec302.json",
+      "hash": "b05ec302",
+      "size": 1490,
+      "urlHashed": true
+    },
+    {
+      "url": "assets/FontManifest.bcba1cef.json",
+      "hash": "bcba1cef",
+      "size": 651,
+      "urlHashed": true
+    },
+    {
+      "url": "assets/NOTICES.6bcc5fe7",
+      "hash": "6bcc5fe7",
+      "size": 1517775,
+      "urlHashed": true
+    },
+    {
+      "url": "assets/assets/fonts/Inter-Bold.28831609.ttf",
+      "hash": "28831609",
+      "size": 420428,
+      "urlHashed": true
+    },
+    {
+      "url": "assets/assets/fonts/Inter-ExtraBold.e6756ad5.ttf",
+      "hash": "e6756ad5",
+      "size": 421796,
+      "urlHashed": true
+    },
+    {
+      "url": "assets/assets/fonts/Inter-Medium.97ad806f.ttf",
+      "hash": "97ad806f",
+      "size": 417300,
+      "urlHashed": true
+    },
+    {
+      "url": "assets/assets/fonts/Inter-Regular.40d692fc.ttf",
+      "hash": "40d692fc",
+      "size": 411640,
+      "urlHashed": true
+    },
+    {
+      "url": "assets/assets/fonts/Inter-SemiBold.78a843fa.ttf",
+      "hash": "78a843fa",
+      "size": 419744,
+      "urlHashed": true
+    },
+    {
+      "url": "assets/assets/fonts/Roboto-Bold.7d0b991e.ttf",
+      "hash": "7d0b991e",
+      "size": 170760,
+      "urlHashed": true
+    },
+    {
+      "url": "assets/assets/fonts/Roboto-Regular.79e85140.ttf",
+      "hash": "79e85140",
+      "size": 171676,
+      "urlHashed": true
+    },
+    {
+      "url": "assets/fonts/MaterialIcons-Regular.6bfaf370.otf",
+      "hash": "6bfaf370",
+      "size": 29792,
+      "urlHashed": true
+    },
+    {
+      "url": "assets/fonts/fallback/Roboto-Regular.79e85140.ttf",
+      "hash": "79e85140",
+      "size": 171676,
+      "urlHashed": true
+    },
+    {
+      "url": "assets/packages/cupertino_icons/assets/CupertinoIcons.9d8d1c5e.ttf",
+      "hash": "9d8d1c5e",
+      "size": 844,
+      "urlHashed": true
+    },
+    {
+      "url": "assets/packages/material_ui/shaders/ink_sparkle.2dca5ab9.frag",
+      "hash": "2dca5ab9",
+      "size": 8890,
+      "urlHashed": true
+    },
+    {
+      "url": "assets/packages/pdfrx/assets/pdfium.5b2cbb18.wasm",
+      "hash": "5b2cbb18",
+      "size": 5231809,
+      "urlHashed": true
+    },
+    {
+      "url": "assets/packages/pdfrx/assets/pdfium_client.1ac8729c.js",
+      "hash": "1ac8729c",
+      "size": 1856,
+      "urlHashed": true
+    },
+    {
+      "url": "assets/packages/pdfrx/assets/pdfium_worker.658241af.js",
+      "hash": "658241af",
+      "size": 108268,
+      "urlHashed": true
+    },
+    {
+      "url": "assets/shaders/ink_sparkle.2dca5ab9.frag",
+      "hash": "2dca5ab9",
+      "size": 8890,
+      "urlHashed": true
+    },
+    {
+      "url": "assets/shaders/stretch_effect.ab412f07.frag",
+      "hash": "ab412f07",
+      "size": 6737,
+      "urlHashed": true
+    },
+    {
+      "url": "canvaskit/canvaskit.js",
+      "hash": "4719b51c",
+      "size": 87031,
+      "urlHashed": false
+    },
+    {
+      "url": "canvaskit/canvaskit.wasm",
+      "hash": "f3c2ff16",
+      "size": 7315452,
+      "urlHashed": false
+    },
+    {
+      "url": "canvaskit/chromium/canvaskit.js",
+      "hash": "b836e30a",
+      "size": 86270,
+      "urlHashed": false
+    },
+    {
+      "url": "canvaskit/chromium/canvaskit.wasm",
+      "hash": "e269e717",
+      "size": 5463539,
+      "urlHashed": false
+    },
+    {
+      "url": "canvaskit/skwasm.js",
+      "hash": "373ad56a",
+      "size": 63858,
+      "urlHashed": false
+    },
+    {
+      "url": "canvaskit/skwasm.wasm",
+      "hash": "8cc8a3a9",
+      "size": 3612036,
+      "urlHashed": false
+    },
+    {
+      "url": "canvaskit/skwasm_heavy.js",
+      "hash": "0c22eeac",
+      "size": 63971,
+      "urlHashed": false
+    },
+    {
+      "url": "canvaskit/skwasm_heavy.wasm",
+      "hash": "08274767",
+      "size": 5232173,
+      "urlHashed": false
+    },
+    {
+      "url": "canvaskit/webparagraph/canvaskit.js",
+      "hash": "6a95972e",
+      "size": 76114,
+      "urlHashed": false
+    },
+    {
+      "url": "canvaskit/webparagraph/canvaskit.wasm",
+      "hash": "01f0337c",
+      "size": 3753480,
+      "urlHashed": false
+    },
+    {
+      "url": "canvaskit/wimp.js",
+      "hash": "e4bc298d",
+      "size": 59546,
+      "urlHashed": false
+    },
+    {
+      "url": "canvaskit/wimp.wasm",
+      "hash": "f2850c85",
+      "size": 3604253,
+      "urlHashed": false
+    },
+    {
+      "url": "drift_worker.js",
+      "hash": "48c950cd",
+      "size": 363283,
+      "urlHashed": false
+    },
+    {
+      "url": "favicon.png",
+      "hash": "5ff5c7d2",
+      "size": 1597,
+      "urlHashed": false
+    },
+    {
+      "url": "flutter.js",
+      "hash": "d2e7708f",
+      "size": 13169,
+      "urlHashed": false
+    },
+    {
+      "url": "flutter_bootstrap.js",
+      "hash": "ea4fce8b",
+      "size": 14685,
+      "urlHashed": false
+    },
+    {
+      "url": "icons/Icon-192.png",
+      "hash": "f45af609",
+      "size": 16270,
+      "urlHashed": false
+    },
+    {
+      "url": "icons/Icon-512.png",
+      "hash": "cf60ccd1",
+      "size": 80962,
+      "urlHashed": false
+    },
+    {
+      "url": "icons/Icon-maskable-192.png",
+      "hash": "f45af609",
+      "size": 16270,
+      "urlHashed": false
+    },
+    {
+      "url": "icons/Icon-maskable-512.png",
+      "hash": "cf60ccd1",
+      "size": 80962,
+      "urlHashed": false
+    },
+    {
+      "url": "index.html",
+      "hash": "9281a5aa",
+      "size": 5664,
+      "urlHashed": false
+    },
+    {
+      "url": "main.dart.96e15e1d.js",
+      "hash": "96e15e1d",
+      "size": 6853829,
+      "urlHashed": true
+    },
+    {
+      "url": "manifest.json",
+      "hash": "89748f35",
+      "size": 971,
+      "urlHashed": false
+    },
+    {
+      "url": "sqlite3.wasm",
+      "hash": "e7451780",
+      "size": 758836,
+      "urlHashed": false
+    },
+    {
+      "url": "version.json",
+      "hash": "99e2ee78",
+      "size": 100,
+      "urlHashed": false
+    }
+  ]
+}
